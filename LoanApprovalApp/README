@@ -1,0 +1,15 @@
+Buka file sln.
+ketik dotnet run pada manager console lalu copy http://localhost:5103/
+
+pilih register jika belum punya account.
+karna pada database sudah ada account untuk staff,manager,direktur
+
+dengan email password
+staff : staff@gmail.com
+manager : manager@gmail.com	
+direktur : direktur@gmail.com
+
+dengan password
+senjou4s ( untuk semua account )
+
+dan file databasenya sudah ada di dalam folder LoanApprovalApp\LoanApprovalApp\LoanApprovalApp

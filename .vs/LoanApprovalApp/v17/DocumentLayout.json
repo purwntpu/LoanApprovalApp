@@ -98,8 +98,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Data\\LoanRequest.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T07:51:40.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T07:51:40.441Z"
             },
             {
               "$type": "Document",
@@ -124,8 +123,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Views\\Loan\\ApprovalManager.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T07:41:36.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T07:41:36.191Z"
             },
             {
               "$type": "Document",
@@ -137,8 +135,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABoAAAAAAAAAAAAIwDgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T07:24:15.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T07:24:15.612Z"
             },
             {
               "$type": "Document",
@@ -150,8 +147,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Views\\Loan\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T07:16:59.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T07:16:59.079Z"
             },
             {
               "$type": "Document",
@@ -163,8 +159,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Controllers\\LoanController.cs",
               "ViewState": "AgIAAHYAAAAAAAAAAAAIwJEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T07:16:10.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T07:16:10.909Z"
             },
             {
               "$type": "Document",
@@ -176,8 +171,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T06:52:41.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T06:52:41.277Z"
             },
             {
               "$type": "Document",
@@ -189,8 +183,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Views\\Loan\\MyRequest.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T07:17:58.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T07:17:58.401Z"
             },
             {
               "$type": "Document",
@@ -202,8 +195,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T07:13:31.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T07:13:31.531Z"
             },
             {
               "$type": "Document",
@@ -215,8 +207,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAIwBcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T07:02:42.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T07:02:42.885Z"
             },
             {
               "$type": "Document",
@@ -228,8 +219,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Controllers\\AccountController.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T07:01:54.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T07:01:54.346Z"
             },
             {
               "$type": "Document",
@@ -241,8 +231,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAKYAAAAAAAAAAAAkwLQAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T06:58:31.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T06:58:31.597Z"
             },
             {
               "$type": "Document",
@@ -254,8 +243,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Data\\Migrations\\20260329063406_InitialCreate.Designer.cs",
               "ViewState": "AgIAAKkAAAAAAAAAAAAkwLcAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T06:58:25.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T06:58:25.05Z"
             },
             {
               "$type": "Document",
@@ -267,8 +255,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
               "ViewState": "AgIAAPQAAAAAAAAAAAAkwAsBAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T06:58:18.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T06:58:18.191Z"
             },
             {
               "$type": "Document",
@@ -280,8 +267,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T06:52:40.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T06:52:40.454Z"
             },
             {
               "$type": "Document",
@@ -293,8 +279,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAUwCAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T06:32:32.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T06:32:32.346Z"
             },
             {
               "$type": "Document",
@@ -306,8 +291,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T06:32:20.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T06:32:20.922Z"
             },
             {
               "$type": "Document",
@@ -319,8 +303,7 @@
               "RelativeToolTip": "LoanApprovalApp\\Data\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T06:31:41.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T06:31:41.34Z"
             },
             {
               "$type": "Document",
@@ -332,8 +315,7 @@
               "RelativeToolTip": "LoanApprovalApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-29T06:30:57.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T06:30:57.87Z"
             }
           ]
         }
