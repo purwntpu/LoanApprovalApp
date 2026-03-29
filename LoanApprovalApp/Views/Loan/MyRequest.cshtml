@@ -1,0 +1,18 @@
+﻿<h2>Tracking Pengajuan</h2>
+
+<table border="1">
+    <tr>
+        <th>Nomor</th>
+        <th>Amount</th>
+        <th>Status</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.RequestNumber</td>
+            <td>@item.Amount</td>
+            <td>@item.Status</td>
+        </tr>
+    }
+</table>

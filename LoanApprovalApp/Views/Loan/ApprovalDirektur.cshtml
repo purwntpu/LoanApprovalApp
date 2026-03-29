@@ -1,0 +1,71 @@
+﻿@model List<LoanApprovalApp.Data.LoanRequest>
+@using LoanApprovalApp.Data
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    ViewData["Title"] = "Approval Direktur";
+}
+
+<h2>Approval Direktur</h2>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-light">
+        <tr>
+            <th>#</th>
+            <th>Nomor Pengajuan</th>
+            <th>Nama Staff</th>
+            <th>Amount</th>
+            <th>Status</th>
+            <th>Lampiran</th>
+            <th>Aksi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Any())
+        {
+            int no = 1;
+            foreach (var item in Model)
+            {
+                var user = UserManager.FindByIdAsync(item.UserId).Result;
+
+                <tr>
+                    <td>@no</td>
+                    <td>@item.RequestNumber</td>
+                    <td>@(user != null ? user.FullName : "Unknown")</td>
+                    <td>@item.Amount.ToString("C")</td>
+                    <td>@item.Status</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.AttachmentPath))
+                        {
+                            <a href="@item.AttachmentPath" target="_blank">Lihat PDF</a>
+                        }
+                        else
+                        {
+                            <span>-</span>
+                        }
+                    </td>
+                    <td>
+                        @* Tombol muncul jika status belum ApproveDirector / Rejected *@
+                        @if (item.Status != "ApprovedDirector" && item.Status != "Rejected")
+                        {
+                            <a asp-action="ApproveDirektur" asp-route-id="@item.Id" class="btn btn-success btn-sm">Approve</a>
+                            <a asp-action="RejectDirektur" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Reject</a>
+                        }
+                        else
+                        {
+                            <span>-</span>
+                        }
+                    </td>
+                </tr>
+                no++;
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="7" class="text-center">Belum ada pengajuan</td>
+            </tr>
+        }
+    </tbody>
+</table>

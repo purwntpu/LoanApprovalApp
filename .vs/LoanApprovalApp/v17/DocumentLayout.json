@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\views\\loan\\approvaldirektur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\views\\loan\\approvaldirektur.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\controllers\\loancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\data\\loanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\data\\loanrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\views\\loan\\approvalmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\views\\loan\\approvalmanager.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\views\\loan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\views\\loan\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\views\\loan\\myrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\views\\loan\\myrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\data\\migrations\\20260329063406_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\data\\migrations\\20260329063406_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|d:\\purwanto\\program\\loanapprovalapp\\loanapprovalapp\\loanapprovalapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{508635A0-350A-40A2-AA00-EBB2609E8E77}|LoanApprovalApp\\LoanApprovalApp.csproj|solutionrelative:loanapprovalapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanRequest.cs",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Data\\LoanRequest.cs",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Data\\LoanRequest.cs",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Data\\LoanRequest.cs",
+              "RelativeToolTip": "LoanApprovalApp\\Data\\LoanRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:51:40.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApprovalDirektur.cshtml",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Loan\\ApprovalDirektur.cshtml",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Views\\Loan\\ApprovalDirektur.cshtml",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Loan\\ApprovalDirektur.cshtml",
+              "RelativeToolTip": "LoanApprovalApp\\Views\\Loan\\ApprovalDirektur.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T07:42:38.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApprovalManager.cshtml",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Loan\\ApprovalManager.cshtml",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Views\\Loan\\ApprovalManager.cshtml",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Loan\\ApprovalManager.cshtml",
+              "RelativeToolTip": "LoanApprovalApp\\Views\\Loan\\ApprovalManager.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T07:41:36.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoanApprovalApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T07:24:15.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Loan\\Create.cshtml",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Views\\Loan\\Create.cshtml",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Loan\\Create.cshtml",
+              "RelativeToolTip": "LoanApprovalApp\\Views\\Loan\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T07:16:59.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanController.cs",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Controllers\\LoanController.cs",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Controllers\\LoanController.cs",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Controllers\\LoanController.cs",
+              "RelativeToolTip": "LoanApprovalApp\\Controllers\\LoanController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAIwJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:16:10.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "LoanApprovalApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T06:52:41.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyRequest.cshtml",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Loan\\MyRequest.cshtml",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Views\\Loan\\MyRequest.cshtml",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Loan\\MyRequest.cshtml",
+              "RelativeToolTip": "LoanApprovalApp\\Views\\Loan\\MyRequest.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T07:17:58.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LoanApprovalApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T07:13:31.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LoanApprovalApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T07:02:42.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LoanApprovalApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T07:01:54.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "LoanApprovalApp\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAkwLQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:58:31.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260329063406_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Data\\Migrations\\20260329063406_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Data\\Migrations\\20260329063406_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Data\\Migrations\\20260329063406_InitialCreate.Designer.cs",
+              "RelativeToolTip": "LoanApprovalApp\\Data\\Migrations\\20260329063406_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAkwLcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:58:25.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "LoanApprovalApp\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAkwAsBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:58:18.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LoanApprovalApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-29T06:52:40.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Program.cs",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Program.cs",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Program.cs",
+              "RelativeToolTip": "LoanApprovalApp\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:32:32.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LoanApprovalApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:32:20.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\Data\\ApplicationUser.cs",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "LoanApprovalApp\\Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T06:31:41.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\appsettings.json",
+              "RelativeDocumentMoniker": "LoanApprovalApp\\appsettings.json",
+              "ToolTip": "D:\\PURWANTO\\Program\\LoanApprovalApp\\LoanApprovalApp\\LoanApprovalApp\\appsettings.json",
+              "RelativeToolTip": "LoanApprovalApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-29T06:30:57.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
